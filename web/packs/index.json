@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "solarmy.json",
+    "Democraps.json",
+    "Amez_MemesFam.json"
+  ],
+  "homeserver_url": "https://matrix.meme-verse.com"
+}
